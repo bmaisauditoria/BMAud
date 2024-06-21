@@ -1,0 +1,26 @@
+BDE Migration Wizard log
+
+Created at: 15/11/2012 23:45:34
+
+Initializing unit list
+
+Creating backup folder
+
+Allocating temporary folder
+
+Processing file: C:\Andros\BBAud-SQL\dmRelatorios.pas
+
+2 change(s)
+
+Processing file: C:\Andros\BBAud-SQL\dmRelatorios.DFM
+
+No changes
+
+Replacing original files with changed versions
+
+Backup file: C:\Andros\BBAud-SQL\RBackup\RExpert.reu
+
+Removing temporary folder
+
+Replace procedure was performed sucessfully.
+

@@ -1,0 +1,7 @@
+winexec(PAnsiChar(AnsiString('"C:\Arquivos de programas\WinRAR\WinRAR.exe" a '+destino+' "'+origem+'"')),sw_normal);
+
+PARA DESCOMPACTAR
+
+winexec(PAnsiChar(AnsiString('"C:\Arquivos de programas\WinRAR\WinRAR.exe" e '+destino+' "'+origem+'"')),sw_normal);
+
+
